@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "shelcasterbeta9bc4d6d5": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
