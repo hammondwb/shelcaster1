@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         
         <h1>App goes here</h1>
+        <p>Fixed backend build</p>
       </header>
       <AmplifySignOut />
     </div>
