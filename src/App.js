@@ -6,10 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
-        <h1>App goes here</h1>
-        <p>Fixed backend build</p>
+        User name here
       </header>
+      <h1>App goes here</h1>
       <AmplifySignOut />
     </div>
   );
