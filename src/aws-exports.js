@@ -7,7 +7,14 @@ const awsmobile = {
     "aws_cognito_region": "us-east-1",
     "aws_user_pools_id": "us-east-1_sIpZ7bOME",
     "aws_user_pools_web_client_id": "190lb7po03gcqc74fon8v63vbn",
-    "oauth": {}
+    "oauth": {},
+    "aws_cloud_logic_custom": [
+        {
+            "name": "AdminQueries",
+            "endpoint": "https://b31q6ect9k.execute-api.us-east-1.amazonaws.com/staging",
+            "region": "us-east-1"
+        }
+    ]
 };
 
 

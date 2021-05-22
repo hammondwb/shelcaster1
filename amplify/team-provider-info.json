@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "shelcasterbeta9bc4d6d5": {}
+      },
+      "function": {
+        "AdminQueries05131278": {
+          "deploymentBucketName": "amplify-amplify01dd44a5dac54-staging-41742-deployment",
+          "s3Key": "amplify-builds/AdminQueries05131278-56754f34734948586956-build.zip"
+        }
       }
     }
   }

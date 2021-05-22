@@ -1,0 +1,10 @@
+[
+  {
+    "groupName": "Blacktivity",
+    "precedence": 1
+  },
+  {
+    "groupName": "WorldOfAcappella",
+    "precedence": 2
+  }
+]

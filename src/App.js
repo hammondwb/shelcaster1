@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
-        <h1>App goes here</h1>
+        User name here
       </header>
+      <h1>App goes here</h1>
       <AmplifySignOut />
     </div>
   );
