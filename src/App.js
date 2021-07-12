@@ -14,7 +14,7 @@ function App() {
       <header className="App-header">
         Welcome
       </header>
-      <h1>Hello from v2 dev</h1>
+      <h1>Hello from v2 dev2</h1>
       {Auth.authState}
       <AmplifySignOut />
     </div>
