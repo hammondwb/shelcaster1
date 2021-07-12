@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "shelcasterbeta9bc4d6d5": {}
+        "shelcasterbeta9bc4d6d5": {},
+        "userPoolGroups": {}
       },
       "function": {
         "AdminQueries05131278": {
