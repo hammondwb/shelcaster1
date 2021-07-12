@@ -14,7 +14,7 @@ function App() {
       <header className="App-header">
         Welcome
       </header>
-      <h1>Hello form V2</h1>
+      <h1>Hello from master</h1>
       {Auth.authState}
       <AmplifySignOut />
     </div>
